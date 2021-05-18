@@ -6,4 +6,4 @@ This repo houses a semantic commit template for more readable and consistent com
 
 Simply clone the repo and run the following command to configure the template:
 
-`git config --global commit.template ~/yourfilename`
+`git config --global commit.template ~/some-path/commit-types`
